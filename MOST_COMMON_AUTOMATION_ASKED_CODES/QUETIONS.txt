@@ -1,0 +1,5 @@
+1. Find duplicate char from string. Write a program to find duplicate characters in a given String.
+Input: hackerearth
+Output: h a e r
+
+2.
